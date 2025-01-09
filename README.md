@@ -59,7 +59,7 @@ MATLAB, Python, VBA, CATIA, SolidWorks, Creo, Ansys, SolidWorks Flow Simulation,
 
 ## Education
 
-Present: PhD, Mechanical engineering  
+Present: PhD, Mechanical Engineering  
 University of Washington, Seattle
 
 2015: Masters and Bachelors of Science, Aerospace Engineering   
