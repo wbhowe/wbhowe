@@ -1,7 +1,7 @@
 # William Howe
 
 ## About Me
-I am an experienced mechanical engineer, currently pursuing a PhD with a focus on robotics and controls. My research is focused on coordination withing multi-agent systems. 
+I am an experienced mechanical engineer, currently pursuing a PhD with a focus on robotics and controls. My research is focused on coordination within multi-agent systems. 
 
 In my personal time, I am an avid climber and skier, and am currently working towards my Single Pitch Instructor certification. 
 
